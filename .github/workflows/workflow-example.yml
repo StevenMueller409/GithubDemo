@@ -15,7 +15,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - run: echo "Hello from LASP!"
+      - run: |
+          echo "Hello from LASP!"
+          echo "So Long!"
 
   test:
     # The type of runner that the job will run on
