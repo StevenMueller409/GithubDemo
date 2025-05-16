@@ -17,8 +17,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - run: |
-        echo "Hello from LASP!"
-        echo "So Long!"
+          echo "Hello from LASP!"
+          echo "So Long!"
 
   build2:
     # The type of runner that the job will run on
@@ -27,5 +27,5 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - run: |
-        echo "Hello Again from LASP!"
-        echo "So Long Again!"
+          echo "Hello Again from LASP!"
+          echo "So Long Again!"
