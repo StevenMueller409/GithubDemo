@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          echo "Hello from LASP!"
+        echo "Hello from LASP!"
           echo "So Long!"
 
   build2:
