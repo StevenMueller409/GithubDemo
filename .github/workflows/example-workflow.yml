@@ -18,7 +18,7 @@ jobs:
     steps:
       # Runs a single command using the runners shell
       - name: Run a one-line script
-      run: echo "Hello from LASP!"
+        run: echo "Hello from LASP!"
 
   job2:
     # The type of runner that the job will run on
