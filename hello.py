@@ -1,1 +1,5 @@
 print("Hello from LASP!")
+print("Hello from LASP!")
+print("Hello from LASP!")
+print("Hello from LASP!")
+print("Hello from LASP!")
